@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Loewenstark_FixerIo>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>
+                <Mage_Catalog />
+            </depends>
+        </Loewenstark_FixerIo>
+    </modules>
+</config>
